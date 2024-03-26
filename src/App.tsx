@@ -1,10 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      {/* Instructions */}
+      {/* 1. Add UI for connecting wallet using Tailwind CSS https://tailwindcss.com/ */}
+      {/* 2. Implement wallet connection function using ethers.js resource:https://docs.ethers.org/v5/ */}
+      {/* 3. Display wallet address UI component */}
+      {/* 4. Display account balance UI component */}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
