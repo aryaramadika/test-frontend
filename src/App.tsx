@@ -8,7 +8,7 @@ function App() {
       {/* Instructions */}
       {/* 1. Add UI for connecting wallet using Tailwind CSS https://tailwindcss.com/ */}
       {/* 2. Implement wallet connection function using ethers.js resource:https://docs.ethers.org/v5/ */}
-      {/* 3. Display wallet address UI component */}
+      {/* 3. Display connected wallet address UI component */}
       {/* 4. Display account balance UI component */}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
